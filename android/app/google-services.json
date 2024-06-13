@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "744948157621",
+    "firebase_url": "https://vcfs-cd728-default-rtdb.firebaseio.com",
+    "project_id": "vcfs-cd728",
+    "storage_bucket": "vcfs-cd728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744948157621:android:39374c75d27aca983902fc",
+        "android_client_info": {
+          "package_name": "com.example.vcf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwd_D0GQKTHVEQN70rRtnnPoc5L6MQOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
